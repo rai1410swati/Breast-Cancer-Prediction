@@ -40,7 +40,7 @@ The data is prepossessed and scaled. I have trained with Random forest Classifie
 <p>Tumor Data form</p>
 </div>
 
-![Home Page 2](static/images/HomePage2.png)
+![Home Page 2](static/images/homepage2.png)
 
 *****
 <div align="center">
